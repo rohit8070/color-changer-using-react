@@ -1,0 +1,7 @@
+.box {
+  border: 2px solid black;
+  height: 10rem;
+}
+input {
+    margin-top: 2rem;
+}
